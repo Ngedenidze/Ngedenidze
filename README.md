@@ -1,5 +1,5 @@
 # 💫 About Me:
-✍️ I’m currently working on a full-stack React Native application designed to revolutionize restaurant inventory management, aiming to streamline processes and enhance efficiency across multiple locations.
+✍️ I’m currently engaged in cutting-edge research on Convolutional Neural Networks at The CogAI Lab, where I've improved CNN training efficacy and accuracy. This work can potentially significantly contribute to the field of computer vision.
 
 🌟 I'm looking to collaborate on any full-stack web projects or data science initiatives that challenge me to push the boundaries of what's possible with technology and teamwork.
 
