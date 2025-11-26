@@ -2,10 +2,6 @@
 
 I’m a software engineer building end-to-end products across mobility and restaurant tech.
 
-Right now I’m working on Fixify, a web app that helps drivers find nearby mechanics that fit their car and the exact service they need. I focus on the full experience, from the filtering logic and map views to the way mechanics are presented for marketing and sponsorship.
-
-I’m also developing Torra, a B2B kitchen and inventory management platform for restaurants. It covers storage organization, inventory counts, analytics, and role-based access for chefs, managers, and owners.
-
 Most of my work sits at the intersection of clean UX, performant frontends, and pragmatic backend design. I enjoy working with React, Next.js, TypeScript, and Node, and I care a lot about layout, micro-interactions, and brand consistency.
 
 On the technical side I have a strong interest in machine learning and computer vision, especially Convolutional Neural Networks and how they can eventually plug into real products for things like automation, prediction, and quality control.
