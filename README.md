@@ -6,7 +6,7 @@ Most of my work sits at the intersection of clean UX, performant frontends, and 
 
 On the technical side I have a strong interest in machine learning and computer vision, especially Convolutional Neural Networks and how they can eventually plug into real products for things like automation, prediction, and quality control.
 
-Fun fact: outside of code, I like curating Spotify playlists, treating it almost like a data problem where mood, tempo, and context all have to line up.
+Fun fact: outside of code, I like curating Spotify playlists
 
 ## Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/gedenidzen)
@@ -34,17 +34,6 @@ Fun fact: outside of code, I like curating Spotify playlists, treating it almost
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-# GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ngedenidze&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=ngedenidze&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ngedenidze&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ngedenidze&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=ngedenidze&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ngedenidze&icon=0&color=0)](https://visitcount.itsvg.in)
